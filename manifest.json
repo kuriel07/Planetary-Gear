@@ -1,0 +1,39 @@
+{
+  "application": {
+    "name": "CADscape",
+    "version": "0.2.0"
+  },
+  "createdAt": "2026-10-07T12:34:18.316Z",
+  "modifiedAt": "2026-10-07T12:34:18.316Z",
+  "author": "",
+  "description": "3d animated planetary gear",
+  "projectVersion": 2,
+  "modelFingerprint": "9f2eee11dcd895cbb70894dd5c1c2e78c6ec05a7a9053926e8047e8e2de5aa8e",
+  "bodyFingerprints": {
+    "3e9512f9-bafb-4449-ad0f-b8a9ca3b2f2a": "9f2eee11dcd895cbb70894dd5c1c2e78c6ec05a7a9053926e8047e8e2de5aa8e",
+    "2d76aa48-02de-45db-85ae-bf978ea62363": "9f2eee11dcd895cbb70894dd5c1c2e78c6ec05a7a9053926e8047e8e2de5aa8e",
+    "14dade85-ed90-4caa-a6fe-191a416d3e36": "9f2eee11dcd895cbb70894dd5c1c2e78c6ec05a7a9053926e8047e8e2de5aa8e",
+    "70c718bc-2816-460b-b4f3-4db3ad7029c2": "9f2eee11dcd895cbb70894dd5c1c2e78c6ec05a7a9053926e8047e8e2de5aa8e",
+    "cdb753e7-dd2b-49ca-9834-09dcadbcef6b": "9f2eee11dcd895cbb70894dd5c1c2e78c6ec05a7a9053926e8047e8e2de5aa8e",
+    "9e1c343e-c5ee-4731-b9ff-3428809a102d": "9f2eee11dcd895cbb70894dd5c1c2e78c6ec05a7a9053926e8047e8e2de5aa8e"
+  },
+  "uiState": {
+    "camera": {
+      "position": [
+        -42.32329345679545,
+        -0.3903660963388843,
+        193.01470957124707
+      ],
+      "target": [
+        -0.10518475349396109,
+        -0.330849841975535,
+        -0.005353391074425094
+      ]
+    },
+    "namedViews": [],
+    "selection": [],
+    "layers": [],
+    "groups": [],
+    "materials": []
+  }
+}
